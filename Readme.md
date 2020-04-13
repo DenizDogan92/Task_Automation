@@ -10,10 +10,6 @@ This list will be updated.
 - `movie_information.py`
 - `vocabulary_builder.py`
 
-# Table of Contents
-
-[TOC]
-
 # Youtube Music Downloader
 
 Lists youtube videos found by the given input video name and downloads user-selected videos
@@ -63,14 +59,21 @@ Here is the command line usage:
 
 **Output:**
 
-Title: The Shawshank Redemption
-Year: 1994
-Duration: 142 min
-Genre: Drama
-Director: Frank Darabont
-Actors: Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler
-Plot: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
-IMDB Rating: 9.3/10
+`Title: The Shawshank Redemption`
+
+`Year: 1994`
+
+`Duration: 142 min`
+
+`Genre: Drama`
+
+`Director: Frank Darabont`
+
+`Actors: Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler`
+
+`Plot: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.`
+
+`IMDB Rating: 9.3/10`
 
 ------
 
@@ -95,8 +98,11 @@ If no argument is given, it shows a random WORD from your dictionary
 If WORD argument is given, it shows the definition of the WORD and saves to your dictionary if not exist
 
 `OPTIONS:`
+
   `list : list WORDS in your dictionary`
+
   `delete WORD : deletes the WORD from your dictionary`
+
   `gui : show a random WORD from your dictionary in GUI`
 
 
@@ -133,11 +139,17 @@ The word "research" is then automatically added to your dictionary file.
 Vocabulary Words:
 
 efficacy
+
 hamper
+
 dormant
+
 salient
+
 jeopardize
+
 mundane
+
 research
 
 
@@ -153,10 +165,15 @@ Deleting word 'research' in english_vocabulary.json
 Vocabulary Words:
 
 efficacy
+
 hamper
+
 dormant
+
 salient
+
 jeopardize
+
 mundane
 
 
