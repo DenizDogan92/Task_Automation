@@ -6,40 +6,8 @@ Here are the list of my scripts for automating daily tasks so far:
 
 This list will be updated.
 
-- `youtube_music_downloader.py`
 - `movie_information.py`
 - `vocabulary_builder.py`
-
-# Youtube Music Downloader
-
-Lists youtube videos found by the given input video name and downloads user-selected videos
-
-**Required Packages:** 
-
-- pytube
-- BeautifulSoup
-
-Here is the command line usage:
-
-`usage: python youtube_music_downloader.py -v [VIDEO_NAME] [OPTIONS]`
-
-`OPTIONS:`
-  `-d, --musicDir download directory`
-  `-a, --audioOnly audio only flag (default=True)`
-
-**Example usage:** 
-
-`python youtube_music_downloader.py -v Queen Show Must Go`
-
-**Output:**
-
-1. Queen - The Show Must Go On (Official Video)
-2. Queen - The Show Must Go On (with lyrics) – In memory of Freddie Mercury
-3. The Show Must Go On-Queen Lyrics (HD)
-
-Enter the video id(s) you like to download: <User input> (Ex: 1 3)
-
-------
 
 # Movie Information
 
